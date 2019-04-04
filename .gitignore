@@ -64,3 +64,6 @@ logs/
 
 # Config file
 config.ini
+
+# venv files
+.venv/
